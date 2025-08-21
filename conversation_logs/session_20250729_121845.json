@@ -1,0 +1,73 @@
+[
+  {
+    "speaker": "VIKA",
+    "text": "Write a Python class LRUCache that implements a Least Recently Used (LRU) Cache with the following methods:\" \"get(key) \u2014 returns the value of the key if present, else -1\nput(key, value) \u2014 updates the value if key exists; otherwise, adds the key-value pair to the cache. If the cache exceeds capacity, it should remove the least recently used item."
+  },
+  {
+    "speaker": "Candidate",
+    "code": ""
+  },
+  {
+    "speaker": "VIKA",
+    "text": {
+      "functions": [],
+      "classes": [],
+      "cyclomatic_complexity": {},
+      "maintainability_index": 100.0,
+      "avg_cyclomatic_complexity": 0,
+      "halstead": {
+        "volume": null,
+        "difficulty": null
+      }
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Okay, that's a solid explanation. Let's keep the momentum going!\n\nCould you tell me about a time you used version control in a project?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Whnen i was working on resume builder project, during that time I used"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "neutral",
+      "stress_score": 0.0
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Okay, that sounds like a great project to discuss!\n\nCould you elaborate on the specific technologies you utilized in that project?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Python's flask, Gemini API, NLP"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "neutral",
+      "stress_score": 0.0
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Okay, great! Sounds like you have a solid grasp of the tools involved.\n\nWhat specific libraries or techniques did you use for NLP tasks?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Spacy"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "neutral",
+      "stress_score": 0.0
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Understood! Spacy is a great choice.\n\nCould you briefly describe a project where you successfully used Spacy for natural language processing?"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "speaker": "VIKA",
+    "text": "Write a Python class LRUCache that implements a Least Recently Used (LRU) Cache with the following methods:\" \"get(key) \u2014 returns the value of the key if present, else -1\nput(key, value) \u2014 updates the value if key exists; otherwise, adds the key-value pair to the cache. If the cache exceeds capacity, it should remove the least recently used item."
+  },
+  {
+    "speaker": "Candidate",
+    "code": ""
+  },
+  {
+    "speaker": "VIKA",
+    "text": {
+      "functions": [],
+      "classes": [],
+      "cyclomatic_complexity": {},
+      "maintainability_index": 100.0,
+      "avg_cyclomatic_complexity": 0,
+      "halstead": {
+        "volume": null,
+        "difficulty": null
+      }
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Okay, that's a solid explanation.\n\nCan you describe a time you successfully debugged a complex piece of code?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "I tried resolving the error"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "happy",
+      "histogram": {
+        "happy": 0.7333333333333333,
+        "sad": 0.26666666666666666
+      },
+      "stress_score": 0.08
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "Great! I'm glad you took initiative to fix it.\n\nCould you describe the specific steps you took to troubleshoot the error?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Okay, I built the AI project"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "happy",
+      "histogram": {
+        "happy": 0.7692307692307693,
+        "sad": 0.23076923076923078
+      },
+      "stress_score": 0.08
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "That's fantastic to hear, I'm excited to delve deeper!\n\nCould you describe the primary programming language you used and why you chose it?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Okay, I built the AI project"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "happy",
+      "histogram": {
+        "happy": 0.6,
+        "sad": 0.4
+      },
+      "stress_score": 0.12
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "That's great to hear! Building an AI project is quite an accomplishment.\n\nCan you describe one of the simpler algorithms you used and why you chose it?"
+  },
+  {
+    "speaker": "Candidate",
+    "text": "Okay, I built the AI project"
+  },
+  {
+    "speaker": "EMOTION",
+    "data": {
+      "dominant": "sad",
+      "histogram": {
+        "sad": 1.0
+      },
+      "stress_score": 0.34
+    }
+  },
+  {
+    "speaker": "VIKA",
+    "text": "I appreciate you sharing that, and it's completely normal to feel a bit down sometimes. Let's keep going; you're doing great.\n\nWhat was your role in building the AI project?"
+  }
+]
